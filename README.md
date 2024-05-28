@@ -2,18 +2,18 @@
 ***
 
 ## Task
-TODO - What is the problem? And where is the challenge?
+I was required to Create a class MySelectQuery in ruby programming language .
 
 ## Description
-TODO - How have you solved the problem?
+Your constructor will receive a CSV content as a string, first line will be the name of the column.
 
 ## Installation
-TODO - How to install your project? npm install? make? make re?
+There was no installation that was required for this program as it can be access through your console 
 
 ## Usage
-TODO - How does it work?
+A select query helps you retrieve only the data that you want, and also helps you combine data from several data sources.
 ```
-./my_project argument1 argument2
+You can use tables and other select queries as data sources for a select query.
 ```
 
 ### The Core Team
